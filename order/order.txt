@@ -1,0 +1,14 @@
+// order
+
+oder
+    order id, 회원
+    배송 정보
+    order 저장
+    order 상품
+    order 저장
+
+주문 취소
+    oder 조회
+    취소
+
+주문 상품 전체 가격 조회
